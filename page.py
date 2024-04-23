@@ -167,7 +167,7 @@ def Mizha():
 						<div class="header__top lk-header__top d-t">
 							<div class="d-tc header-top__logo-cell">
 								<a href="/" class="logo">
-									<img src="/img/svg/logo.svg?" alt="Логотип РЭШ">
+									<img src="/static/styles/svg/logo.svg?" alt="Логотип РЭШ">
 
 									<p class="logo__name">Российская электронная школа</p>
 								</a>
@@ -196,7 +196,7 @@ def Mizha():
 
     <a href="/office/" class="d-tc header-top__user">
         <div class="user-image">
-            <div class="top-user-avatar" style="background: url(/custom/img/default_profile.jpg); background-size: cover"></div>
+            <div class="top-user-avatar" style="background: url(/static/styles/default_profile.png); background-size: cover"></div>
         </div>
             <span class="user-name">
                Щербаков М.
@@ -236,7 +236,7 @@ def Mizha():
             <a href="/for-school" class="header__menu-link d-tc">Школе</a>
             <div class="d-tc nav-icon-cell">
                 <a class="nav-mail" href="/feedback" style="top: -5px;">
-                    <img src="/img/mail.png" alt="">
+                    <img src="/static/styles/mail.png" alt="">
                     <span style="font: 17px robotoregular, sans-serif; line-height: 17px; display: inline-block; position: relative; top: 4px; text-align: left; text-transform: none; padding-left: 8px;">написать<br>в техподдержку</span>
                 </a>
             </div>
@@ -915,22 +915,22 @@ def Mizha():
             <h1>НАШИ ПАРТНЁРЫ</h1>
             <div class="partners__wrap">
                     <a class="partners__link" target="_blank" href="https://edu.gov.ru/">
-        <img src="/uploads/partner/60d04e5927df4.png" alt="Минпросвещения России">
+        <img src="/static/styles/60d04e5927df4.png" alt="Минпросвещения России">
     </a>
     <a class="partners__link" target="_blank" href="http://edu.ru">
-        <img src="/uploads/partner/57c4385d27ab7.jpg" alt="Российское образование">
+        <img src="/static/styles/57c4385d27ab7.jpg" alt="Российское образование">
     </a>
     <a class="partners__link" target="_blank" href="http://obrnadzor.gov.ru">
-        <img src="/uploads/partner/57f02217139a4.png" alt="Рособрнадзор">
+        <img src="/static/styles/57f02217139a4.png" alt="Рособрнадзор">
     </a>
     <a class="partners__link" target="_blank" href="https://www.rgo.ru/">
-        <img src="/uploads/partner/585b7c0268b15.jpg" alt="Русское географическое общество">
+        <img src="/static/styles/585b7c0268b15.jpg" alt="Русское географическое общество">
     </a>
     <a class="partners__link" target="_blank" href="https://rvio.histrf.ru/">
-        <img src="/uploads/partner/57f0225b5205b.png" alt="Российское военно-историческое общество">
+        <img src="/static/styles/57f0225b5205b.png" alt="Российское военно-историческое общество">
     </a>
     <a class="partners__link" target="_blank" href="https://www.prlib.ru/">
-        <img src="/uploads/partner/580e011b1018a.png" alt="Президентская бибилиотека">
+        <img src="/static/styles/580e011b1018a.png" alt="Президентская бибилиотека">
     </a>
 
             </div>
@@ -1592,7 +1592,7 @@ def Stesha():
 						<div class="header__top lk-header__top d-t">
 							<div class="d-tc header-top__logo-cell">
 								<a href="/" class="logo">
-									<img src="/img/svg/logo.svg?" alt="Логотип РЭШ">
+									<img src="static/styles/svg/logo.svg?" alt="Логотип РЭШ">
 
 									<p class="logo__name">Российская электронная школа</p>
 								</a>
@@ -1621,7 +1621,7 @@ def Stesha():
 
     <a href="/office/" class="d-tc header-top__user">
         <div class="user-image">
-            <div class="top-user-avatar" style="background: url(/custom/img/default_profile.jpg); background-size: cover"></div>
+            <div class="top-user-avatar" style="background: url(/static/styles/default_profile.png); background-size: cover"></div>
         </div>
             <span class="user-name">
                Жолондевская С.
@@ -1661,7 +1661,7 @@ def Stesha():
             <a href="/for-school" class="header__menu-link d-tc">Школе</a>
             <div class="d-tc nav-icon-cell">
                 <a class="nav-mail" href="/feedback" style="top: -5px;">
-                    <img src="/img/mail.png" alt="">
+                    <img src="/static/styles/mail.png" alt="">
                     <span style="font: 17px robotoregular, sans-serif; line-height: 17px; display: inline-block; position: relative; top: 4px; text-align: left; text-transform: none; padding-left: 8px;">написать<br>в техподдержку</span>
                 </a>
             </div>
@@ -2340,22 +2340,22 @@ def Stesha():
             <h1>НАШИ ПАРТНЁРЫ</h1>
             <div class="partners__wrap">
                     <a class="partners__link" target="_blank" href="https://edu.gov.ru/">
-        <img src="/uploads/partner/60d04e5927df4.png" alt="Минпросвещения России">
+        <img src="/static/styles/60d04e5927df4.png" alt="Минпросвещения России">
     </a>
     <a class="partners__link" target="_blank" href="http://edu.ru">
-        <img src="/uploads/partner/57c4385d27ab7.jpg" alt="Российское образование">
+        <img src="/static/styles/57c4385d27ab7.jpg" alt="Российское образование">
     </a>
     <a class="partners__link" target="_blank" href="http://obrnadzor.gov.ru">
-        <img src="/uploads/partner/57f02217139a4.png" alt="Рособрнадзор">
+        <img src="/static/styles/57f02217139a4.png" alt="Рособрнадзор">
     </a>
     <a class="partners__link" target="_blank" href="https://www.rgo.ru/">
-        <img src="/uploads/partner/585b7c0268b15.jpg" alt="Русское географическое общество">
+        <img src="/static/styles/585b7c0268b15.jpg" alt="Русское географическое общество">
     </a>
     <a class="partners__link" target="_blank" href="https://rvio.histrf.ru/">
-        <img src="/uploads/partner/57f0225b5205b.png" alt="Российское военно-историческое общество">
+        <img src="/static/styles/57f0225b5205b.png" alt="Российское военно-историческое общество">
     </a>
     <a class="partners__link" target="_blank" href="https://www.prlib.ru/">
-        <img src="/uploads/partner/580e011b1018a.png" alt="Президентская бибилиотека">
+        <img src="/static/styles/580e011b1018a.png" alt="Президентская бибилиотека">
     </a>
 
             </div>
@@ -3016,7 +3016,7 @@ def Anya():
 						<div class="header__top lk-header__top d-t">
 							<div class="d-tc header-top__logo-cell">
 								<a href="/" class="logo">
-									<img src="/img/svg/logo.svg?" alt="Логотип РЭШ">
+									<img src="/static/styles/svg/logo.svg?" alt="Логотип РЭШ">
 
 									<p class="logo__name">Российская электронная школа</p>
 								</a>
@@ -3045,7 +3045,7 @@ def Anya():
 
     <a href="/office/" class="d-tc header-top__user">
         <div class="user-image">
-            <div class="top-user-avatar" style="background: url(/custom/img/default_profile.jpg); background-size: cover"></div>
+            <div class="top-user-avatar" style="background: url(/static/styles/default_profile.png); background-size: cover"></div>
         </div>
             <span class="user-name">
                Батищева А.
@@ -3085,7 +3085,7 @@ def Anya():
             <a href="/for-school" class="header__menu-link d-tc">Школе</a>
             <div class="d-tc nav-icon-cell">
                 <a class="nav-mail" href="/feedback" style="top: -5px;">
-                    <img src="/img/mail.png" alt="">
+                    <img src="/static/styles/mail.png" alt="">
                     <span style="font: 17px robotoregular, sans-serif; line-height: 17px; display: inline-block; position: relative; top: 4px; text-align: left; text-transform: none; padding-left: 8px;">написать<br>в техподдержку</span>
                 </a>
             </div>
@@ -3764,22 +3764,22 @@ def Anya():
             <h1>НАШИ ПАРТНЁРЫ</h1>
             <div class="partners__wrap">
                     <a class="partners__link" target="_blank" href="https://edu.gov.ru/">
-        <img src="/uploads/partner/60d04e5927df4.png" alt="Минпросвещения России">
+        <img src="/static/styles/60d04e5927df4.png" alt="Минпросвещения России">
     </a>
     <a class="partners__link" target="_blank" href="http://edu.ru">
-        <img src="/uploads/partner/57c4385d27ab7.jpg" alt="Российское образование">
+        <img src="/static/styles/57c4385d27ab7.jpg" alt="Российское образование">
     </a>
     <a class="partners__link" target="_blank" href="http://obrnadzor.gov.ru">
-        <img src="/uploads/partner/57f02217139a4.png" alt="Рособрнадзор">
+        <img src="/static/styles/57f02217139a4.png" alt="Рособрнадзор">
     </a>
     <a class="partners__link" target="_blank" href="https://www.rgo.ru/">
-        <img src="/uploads/partner/585b7c0268b15.jpg" alt="Русское географическое общество">
+        <img src="/static/styles/585b7c0268b15.jpg" alt="Русское географическое общество">
     </a>
     <a class="partners__link" target="_blank" href="https://rvio.histrf.ru/">
-        <img src="/uploads/partner/57f0225b5205b.png" alt="Российское военно-историческое общество">
+        <img src="/static/styles/57f0225b5205b.png" alt="Российское военно-историческое общество">
     </a>
     <a class="partners__link" target="_blank" href="https://www.prlib.ru/">
-        <img src="/uploads/partner/580e011b1018a.png" alt="Президентская бибилиотека">
+        <img src="/static/styles/580e011b1018a.png" alt="Президентская бибилиотека">
     </a>
 
             </div>
